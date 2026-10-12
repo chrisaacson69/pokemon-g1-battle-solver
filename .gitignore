@@ -1,0 +1,8 @@
+# Fetched game data (pret/pokered, pokeyellow) -- Nintendo/Game Freak material. NEVER committed.
+# The repo commits tools + derived analysis only (same posture as heroclix data/ and ROMs in the decompiler repos).
+data/
+
+__pycache__/
+*.pyc
+.venv/
+venv/
